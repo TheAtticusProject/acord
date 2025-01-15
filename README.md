@@ -18,7 +18,9 @@ Train/Validation/Test Splits
  - Test Set: 50% of queries.
 Each split ensures representation across all clause categories for balanced evaluation.
 
-Supplement
+The dataset includes the following supplemental materials created by legal experts that are provided for interested researchers to conduct additional experiments, however, they were not used in our experiments:
+- 2-5 Star Query-Clause Pairs in csv file with more nuanced scores (10 different scores instead of 4 scores); and
+- Queries in short, medium and long formats.
 
 DATA STATISTICS
 
